@@ -21,7 +21,7 @@ body
     font-size: 18px;
 }
 
-.Select-control
+.Select-control, .dash-dropdown
 {
 	height:48px;
 	border-radius:1px;
